@@ -1,7 +1,0 @@
-
-site:
-  title: colorimetry.net
-  description: Blog Posts Go Here
-  base_url: https://colorimetry.net
-posts:
-  rss: rss.xml
